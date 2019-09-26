@@ -8,7 +8,22 @@ img {
 }
 
 #lezioni,
-#steps {
+#steps,
+#why {
   margin-top: 100px;
   text-align: center;
 }
+
+/* rules used in specific parts of the page */
+
+  /* why section */
+      #why .container-with-clearfix div {
+        margin-top: 80px;
+      }
+
+      #why .container-with-clearfix img {
+        background-color:#428bca;
+        border-radius:50%;
+        padding:30px
+      }
+  /* /why section */
