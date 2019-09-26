@@ -1,9 +1,7 @@
 /* 26/09/2019 version 0.2 */
 
 /* container */
-.container-with-clearfix {
-  margin: 0 auto;
-}
+.container-with-clearfix {}
 
   /* clearfix */
   .container-with-clearfix::after {
