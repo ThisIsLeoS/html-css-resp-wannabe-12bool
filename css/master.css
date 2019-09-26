@@ -1,0 +1,13 @@
+/* rules used (or usable) in different parts of the page */
+img{
+  height: 200px;
+}
+
+[background="grey"] {
+  background-color: #f9f9f9;
+}
+
+#lezioni {
+  margin-top: 100px;
+  text-align: center;
+}
