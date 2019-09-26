@@ -1,5 +1,5 @@
 /* rules used (or usable) in different parts of the page */
-img{
+img {
   height: 200px;
 }
 
@@ -7,7 +7,8 @@ img{
   background-color: #f9f9f9;
 }
 
-#lezioni {
+#lezioni,
+#steps {
   margin-top: 100px;
   text-align: center;
 }
