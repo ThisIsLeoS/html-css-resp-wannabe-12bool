@@ -114,7 +114,7 @@
 }
 
 /* medium devices */
-@media screen and (min-width: 768px) and (max-width: 992px) {
+@media screen and (min-width: 769px) and (max-width: 992px) {
 
   /* give "float: left;" to all column and offset boxes */
   [class*="col-md-"] {
@@ -217,7 +217,7 @@
 }
 
 /* large devices */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 993px) {
 
   /* give "float: left;" to all column and offset boxes */
   [class*="col-lg-"] {
